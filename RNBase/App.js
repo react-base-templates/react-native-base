@@ -7,9 +7,13 @@
 import React, { Component } from "react";
 import { StyleSheet, View } from "react-native";
 
-export default class App extends Component {
-	constructor() {
-		super();
+type Props = {};
+
+type State = {};
+
+export default class App extends Component<Props, State> {
+	constructor(props: Props) {
+		super(props);
 		this.state = {};
 	}
 

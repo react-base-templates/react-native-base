@@ -1,0 +1,15 @@
+{
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"prettier.tabWidth": 4,
+	"prettier.printWidth": 99,
+	"prettier.trailingComma": "all",
+	"prettier.useTabs": true,
+	"javascript.validate.enable": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"editor.formatOnType": false,
+	"git.enableSmartCommit": true,
+	"eslint.autoFixOnSave": true,
+	"eslint.alwaysShowStatus": true,
+	"eslint.enable": true
+}
